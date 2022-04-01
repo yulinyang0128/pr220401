@@ -1,0 +1,15 @@
+ switch(i){
+        case 0:
+            food = "ramen";
+            break;
+        case 1:
+            food = "spagetti";
+            break;
+        case 2:
+            food = "salad";
+            break;
+	case 8:
+	food="dumpling";
+	break;
+    }
+      Console.WriteLine("the recommendation is "+ food);
